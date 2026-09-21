@@ -4,7 +4,7 @@
 
 ### Programación Orientada a Objetos · C# · Windows Forms · .NET
 
-<img src="assets/banner-investigacion-clases-csharp.png" alt="Banner Investigación Clases en C#" width="100%">
+<img src="assets/banner.jpg" alt="Banner Investigación Clases en C#" width="100%">
 
 <br>
 
