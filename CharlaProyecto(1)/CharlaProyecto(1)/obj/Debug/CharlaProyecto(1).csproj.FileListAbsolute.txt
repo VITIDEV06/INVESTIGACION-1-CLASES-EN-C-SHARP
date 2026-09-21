@@ -1,0 +1,13 @@
+C:\Users\micha\Downloads\TAREAS UTP\3 Año\2 Semestre\HPA III\CharlaProyecto(1)\CharlaProyecto(1)\obj\Debug\CharlaProyecto(1).csproj.AssemblyReference.cache
+C:\Users\micha\Downloads\TAREAS UTP\3 Año\2 Semestre\HPA III\CharlaProyecto(1)\CharlaProyecto(1)\obj\Debug\CharlaProyecto_1_.Form1.resources
+C:\Users\micha\Downloads\TAREAS UTP\3 Año\2 Semestre\HPA III\CharlaProyecto(1)\CharlaProyecto(1)\obj\Debug\CharlaProyecto_1_.Properties.Resources.resources
+C:\Users\micha\Downloads\TAREAS UTP\3 Año\2 Semestre\HPA III\CharlaProyecto(1)\CharlaProyecto(1)\obj\Debug\CharlaProyecto(1).csproj.GenerateResource.cache
+C:\Users\micha\Downloads\TAREAS UTP\3 Año\2 Semestre\HPA III\CharlaProyecto(1)\CharlaProyecto(1)\obj\Debug\CharlaProyecto(1).csproj.CoreCompileInputs.cache
+C:\Users\micha\Downloads\TAREAS UTP\3 Año\2 Semestre\HPA III\CharlaProyecto(1)\CharlaProyecto(1)\bin\Debug\CharlaProyecto(1).exe.config
+C:\Users\micha\Downloads\TAREAS UTP\3 Año\2 Semestre\HPA III\CharlaProyecto(1)\CharlaProyecto(1)\bin\Debug\CharlaProyecto(1).exe
+C:\Users\micha\Downloads\TAREAS UTP\3 Año\2 Semestre\HPA III\CharlaProyecto(1)\CharlaProyecto(1)\bin\Debug\CharlaProyecto(1).pdb
+C:\Users\micha\Downloads\TAREAS UTP\3 Año\2 Semestre\HPA III\CharlaProyecto(1)\CharlaProyecto(1)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\micha\Downloads\TAREAS UTP\3 Año\2 Semestre\HPA III\CharlaProyecto(1)\CharlaProyecto(1)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\micha\Downloads\TAREAS UTP\3 Año\2 Semestre\HPA III\CharlaProyecto(1)\CharlaProyecto(1)\obj\Debug\CharlaPr.56EAEE1B.Up2Date
+C:\Users\micha\Downloads\TAREAS UTP\3 Año\2 Semestre\HPA III\CharlaProyecto(1)\CharlaProyecto(1)\obj\Debug\CharlaProyecto(1).exe
+C:\Users\micha\Downloads\TAREAS UTP\3 Año\2 Semestre\HPA III\CharlaProyecto(1)\CharlaProyecto(1)\obj\Debug\CharlaProyecto(1).pdb
