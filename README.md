@@ -94,7 +94,7 @@ flowchart TD
 
 <div align="center">
 
-<img src="assets/problema-1-empleados-json.png" alt="Problema 1 - Gestión de empleados" width="850">
+<img src="assets/problema-1-empleados-json.jpeg" alt="Problema 1 - Gestión de empleados" width="850">
 
 </div>
 
@@ -173,7 +173,7 @@ flowchart LR
 
 <div align="center">
 
-<img src="assets/problema-2-validacion-pdf.png" alt="Problema 2 - Validación y PDF" width="850">
+<img src="assets/problema-2-validacion-pdf.jpeg" alt="Problema 2 - Validación y PDF" width="850">
 
 </div>
 
@@ -267,7 +267,9 @@ Reporte_Validacion.pdf
 
 <div align="center">
 
-<img src="assets/problema-3-notas-excel.png" alt="Problema 3 - Sistema de notas" width="850">
+<img src="assets/problema-3-notas-excel1.jpeg" alt="Problema 3 - Sistema de notas" width="850">
+<img src="assets/problema-3-notas-excel2.jpeg" alt="Problema 3 - Sistema de notas" width="850">
+
 
 </div>
 
